@@ -1,0 +1,16 @@
+export const REGISTER_USER = 'REGISTER_USER';
+export const REGISTER_FAIL = 'REGISTER_fAIL';
+
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGIN_FAIL = 'LOGIN_fAIL';
+
+export const LOGOUT = 'LOGOUT';
+
+export const GET_COURSE_SUCCESS = 'GET_COURSE_SUCCESS';
+export const GET_COURSE_FAIL = 'GET_COURSE_FAIL';
+
+export const ADD_COURSE_SUCCESS = 'ADD_COURSE_SUCCESS';
+export const ADD_COURSE_FAIL = 'ADD_COURSE_FAIL';
+
+export const DELETE_COURSE_SUCCESS = 'DELETE_COURSE_SUCCESS';
+export const DELETE_COURSE_FAIL = 'DELETE_COURSE_FAIL';
